@@ -1,5 +1,5 @@
 ## Hi there 👋 im cheque
--🔭 I’m currently working on a Google clone
+- 🔭 I’m currently working on a Google clone
 - 🌱 I’m currently learning Tic's
 - 👯 I’m looking to collaborate on the app industry
 - 🤔 I’m looking for help with work
